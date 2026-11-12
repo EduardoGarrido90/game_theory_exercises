@@ -1,0 +1,14 @@
+# LaTeX auxiliaries
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.nav
+*.snm
+*.bbl
+*.blg
+*.lof
+*.lot
